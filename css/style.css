@@ -4,6 +4,8 @@
   body {
     
     background-color: #f1f1f1;
+    font-family: 'Raleway', sans-serif;
+
   }
   header {
     text-align: center;
@@ -82,6 +84,7 @@
   padding: 8px 30px;
   color: #FFF;
   font-weight: 700;
+  font-family: 'Raleway', sans-serif;
 }
 .row3 button:hover {
   background-color: salmon;
