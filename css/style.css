@@ -84,7 +84,7 @@
   font-weight: 700;
 }
 .row3 button:hover {
-  background: #444444;
+  background-color: salmon;
   color: #ffffff;
   transition-delay: 350ms;
 }
